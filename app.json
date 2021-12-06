@@ -1,6 +1,6 @@
 {
-  "name": "Telegram Səsli Çat Musiqi Pleyeri Botu Nexus ",
-  "description": "Telegram Botu Telegram Səs Çatlarında Səs Oynayacaq",
+  "name": "Telegram Voice Chat Music Player Bot ",
+  "description": "Telegram Bot to Play Audio in Telegram Voice Chats",
   "repository": "https://github.com/Aliyevdii/Music-Nexus-mehdi",
   "stack": "container",
   "keywords": [
@@ -59,8 +59,8 @@
       "required": false
     },
     "REPLY_MESSAGE": {
-      "description": "USER hesabına PM-də mesaj göndərənlərə cavab mesajı. Bu xüsusiyyətə ehtiyacınız yoxdursa, onu boş qoyun.",
-      "value": "Salam, mən musiqi ifa edən bir robotam, sizinlə söhbət etməyə vaxtım yoxdur.",
+      "description": "A reply message to those who message the USER account in PM. Make it blank if you do not need this feature.",
+      "value": "Hello, Iam a bot to play music, not havimg time to chat with you.",
       "required": false
     }
   },
